@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <br.net.ruggeri.qualcommchallenge.view.HockeyView
+        android:id="@+id/main_hockey"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    
+    
+</LinearLayout>

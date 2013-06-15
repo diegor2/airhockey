@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QualcommChalenge</string>
+    <string name="menu_reset">Reset</string>
+	<string name="menu_server">Start Server</string>
+	<string name="menu_connect">Connect</string>
+	<string name="menu_ping">Ping</string>
+	<string name="toast_server">Server started OK</string>
+	<string name="toast_lost">Connection Lost</string>
+	<string name="toast_added">Player added</string>
+	<string name="toast_removed">Player removed</string>
+	<string name="toast_ping">Ping!</string>
+	<string name="toast_client">Client connected</string>
+</resources>
